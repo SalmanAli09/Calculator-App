@@ -1,0 +1,35 @@
+.main {
+    border: 1px solid rgb(0, 0, 0);
+    width: 177px;
+    margin-top: 20px;
+    margin-left: 30px;
+    background-color: rgb(153, 171, 189);
+    border-radius: 5px;
+   
+}
+
+.result{
+    background-color: white;
+    color: rgb(0, 0, 0);
+    margin-top: 2px;
+    border-radius: 2px;
+    border-style:double ;
+}
+.clear{
+    width: 100%;
+    margin-top: 5px;
+    margin-bottom: 2px;
+    border-radius: 5px;
+}
+.btn {
+    width: 23%;
+    margin-top: 5px;
+    border-radius: 5px;
+}
+.btn1{
+    width: 48%;
+    margin-top: 5px;
+    margin-bottom: 2px;
+    border-radius: 5px;
+}
+ 
